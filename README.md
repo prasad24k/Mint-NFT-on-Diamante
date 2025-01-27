@@ -1,6 +1,7 @@
 # NFT Minting Diamante 
 
 This project allows users to connect their Diamante wallet and mint NFTs by uploading an image and providing an asset name. The project consists of a frontend interface and a backend server to handle the NFT minting process.
+if you want directly :(https://dimanatenft.netlify.app/)
 
 ## Installation
 
